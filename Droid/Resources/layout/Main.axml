@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+              android:orientation="vertical" 
+              android:layout_width="match_parent" 
+              android:layout_height="match_parent"
+              android:background="#ffffffff"
+              >
+    <Button
+        android:id="@+id/btnLoginFacebook"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/full_width_button"
+        android:text="Login to Facebook..."
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="14dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:drawableLeft="@drawable/com_facebook_button_icon_blue"
+        android:paddingLeft="20dp"
+    />
+</LinearLayout>

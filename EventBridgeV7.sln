@@ -1,0 +1,19 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "EventBridgeV7", "EventBridgeV7\EventBridgeV7.shproj", "{8DBC8193-8AA9-43F0-9697-0AB4968666AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventBridgeV7.Droid", "Droid\EventBridgeV7.Droid.csproj", "{D4B0A491-49F6-400D-9F22-3C4BC82F4F24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4B0A491-49F6-400D-9F22-3C4BC82F4F24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B0A491-49F6-400D-9F22-3C4BC82F4F24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4B0A491-49F6-400D-9F22-3C4BC82F4F24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B0A491-49F6-400D-9F22-3C4BC82F4F24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
